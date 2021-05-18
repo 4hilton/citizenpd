@@ -4,7 +4,7 @@ Citizen PD - Report what you see
 This is a community project designed to help record and report unfavorable activites
 
 Phase 1
-
+.
 The goal of this mobile APP is to
 Allow user to record the timestamps for one or more cameras so as to make it easier
 The app should allow for multiple buttons on the screen
